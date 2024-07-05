@@ -1,8 +1,8 @@
 ## Install
 
-´´´
+```
 npm install
-´´´
+```
 
 ## Config
 
